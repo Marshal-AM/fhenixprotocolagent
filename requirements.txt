@@ -5,3 +5,4 @@ pypdf
 faiss-cpu
 fastapi
 uvicorn
+langchain_community
