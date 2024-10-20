@@ -3,3 +3,5 @@ langchain
 langchain_openai
 pypdf
 faiss-cpu
+fastapi
+uvicorn
